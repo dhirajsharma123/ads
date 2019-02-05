@@ -3,6 +3,10 @@
                 "Team":"A",
                 "Name":"Sonu",
                 "Class":"First",
+              },{
+                "Team":"B",
+                "Name":"Sonu",
+                "Class":"First",
               }]
                
 }
